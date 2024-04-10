@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+#nav {
+    height : 60px;
+    background-color: rgb(19, 18, 18);
+}
+#logo {
+    color:rgba(255, 255, 255, 0.945)
+}
+button {
+   background-color: rgb(230, 177, 3)
+}
+a {
+    margin-right: 185px;
+}
+ body {
+    background-color: black;
+}
+h1 {
+    color:red ;
+    text-align: center;
+    text-decoration:blue wavy overline;
+display: inline;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 50px;
+
+}
+p {
+    color: beige;
+}
+button {
+    background-color: white;
+}
+h2,h3,h4{
+    color:white;
+}
+ul {
+    color:white;
+}
+li {
+    color:white;
+    font-family: cursive;
+    text text-transform: uppercase;
+} 
+#color {
+    color:white
+}
+#table {
+    color:white
+}

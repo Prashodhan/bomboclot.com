@@ -1,0 +1,18 @@
+zbody {
+    background-color:rgb(123,32,112);
+}
+h1 , h2 , h3 ,h4
+{
+    color: white
+}
+#one {
+    color: white
+}
+#table {
+    border-style: ridge;
+    color:rgb(8, 8, 8);
+    text-decoration: wavy;
+    font-family:Century,'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
